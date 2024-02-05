@@ -1,0 +1,15 @@
+/Users/macos/Desktop/Operator/IComparable/bin/Debug/net7.0/IComparable
+/Users/macos/Desktop/Operator/IComparable/bin/Debug/net7.0/IComparable.deps.json
+/Users/macos/Desktop/Operator/IComparable/bin/Debug/net7.0/IComparable.runtimeconfig.json
+/Users/macos/Desktop/Operator/IComparable/bin/Debug/net7.0/IComparable.dll
+/Users/macos/Desktop/Operator/IComparable/bin/Debug/net7.0/IComparable.pdb
+/Users/macos/Desktop/Operator/IComparable/obj/Debug/net7.0/IComparable.csproj.AssemblyReference.cache
+/Users/macos/Desktop/Operator/IComparable/obj/Debug/net7.0/IComparable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Desktop/Operator/IComparable/obj/Debug/net7.0/IComparable.AssemblyInfoInputs.cache
+/Users/macos/Desktop/Operator/IComparable/obj/Debug/net7.0/IComparable.AssemblyInfo.cs
+/Users/macos/Desktop/Operator/IComparable/obj/Debug/net7.0/IComparable.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/Operator/IComparable/obj/Debug/net7.0/IComparable.dll
+/Users/macos/Desktop/Operator/IComparable/obj/Debug/net7.0/refint/IComparable.dll
+/Users/macos/Desktop/Operator/IComparable/obj/Debug/net7.0/IComparable.pdb
+/Users/macos/Desktop/Operator/IComparable/obj/Debug/net7.0/IComparable.genruntimeconfig.cache
+/Users/macos/Desktop/Operator/IComparable/obj/Debug/net7.0/ref/IComparable.dll
